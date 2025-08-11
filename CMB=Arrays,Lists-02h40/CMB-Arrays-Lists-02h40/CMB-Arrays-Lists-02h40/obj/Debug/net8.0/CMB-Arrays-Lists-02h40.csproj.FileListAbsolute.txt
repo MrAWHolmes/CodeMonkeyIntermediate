@@ -1,0 +1,15 @@
+C:\Users\archi\Documents\C#-Dotnet\codeMonkey\CMB=Arrays,Lists-02h40\CMB-Arrays-Lists-02h40\CMB-Arrays-Lists-02h40\bin\Debug\net8.0\CMB-Arrays-Lists-02h40.exe
+C:\Users\archi\Documents\C#-Dotnet\codeMonkey\CMB=Arrays,Lists-02h40\CMB-Arrays-Lists-02h40\CMB-Arrays-Lists-02h40\bin\Debug\net8.0\CMB-Arrays-Lists-02h40.deps.json
+C:\Users\archi\Documents\C#-Dotnet\codeMonkey\CMB=Arrays,Lists-02h40\CMB-Arrays-Lists-02h40\CMB-Arrays-Lists-02h40\bin\Debug\net8.0\CMB-Arrays-Lists-02h40.runtimeconfig.json
+C:\Users\archi\Documents\C#-Dotnet\codeMonkey\CMB=Arrays,Lists-02h40\CMB-Arrays-Lists-02h40\CMB-Arrays-Lists-02h40\bin\Debug\net8.0\CMB-Arrays-Lists-02h40.dll
+C:\Users\archi\Documents\C#-Dotnet\codeMonkey\CMB=Arrays,Lists-02h40\CMB-Arrays-Lists-02h40\CMB-Arrays-Lists-02h40\bin\Debug\net8.0\CMB-Arrays-Lists-02h40.pdb
+C:\Users\archi\Documents\C#-Dotnet\codeMonkey\CMB=Arrays,Lists-02h40\CMB-Arrays-Lists-02h40\CMB-Arrays-Lists-02h40\obj\Debug\net8.0\CMB-Arrays-Lists-02h40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\archi\Documents\C#-Dotnet\codeMonkey\CMB=Arrays,Lists-02h40\CMB-Arrays-Lists-02h40\CMB-Arrays-Lists-02h40\obj\Debug\net8.0\CMB-Arrays-Lists-02h40.AssemblyInfoInputs.cache
+C:\Users\archi\Documents\C#-Dotnet\codeMonkey\CMB=Arrays,Lists-02h40\CMB-Arrays-Lists-02h40\CMB-Arrays-Lists-02h40\obj\Debug\net8.0\CMB-Arrays-Lists-02h40.AssemblyInfo.cs
+C:\Users\archi\Documents\C#-Dotnet\codeMonkey\CMB=Arrays,Lists-02h40\CMB-Arrays-Lists-02h40\CMB-Arrays-Lists-02h40\obj\Debug\net8.0\CMB-Arrays-Lists-02h40.csproj.CoreCompileInputs.cache
+C:\Users\archi\Documents\C#-Dotnet\codeMonkey\CMB=Arrays,Lists-02h40\CMB-Arrays-Lists-02h40\CMB-Arrays-Lists-02h40\obj\Debug\net8.0\CMB-Arrays-Lists-02h40.sourcelink.json
+C:\Users\archi\Documents\C#-Dotnet\codeMonkey\CMB=Arrays,Lists-02h40\CMB-Arrays-Lists-02h40\CMB-Arrays-Lists-02h40\obj\Debug\net8.0\CMB-Arrays-Lists-02h40.dll
+C:\Users\archi\Documents\C#-Dotnet\codeMonkey\CMB=Arrays,Lists-02h40\CMB-Arrays-Lists-02h40\CMB-Arrays-Lists-02h40\obj\Debug\net8.0\refint\CMB-Arrays-Lists-02h40.dll
+C:\Users\archi\Documents\C#-Dotnet\codeMonkey\CMB=Arrays,Lists-02h40\CMB-Arrays-Lists-02h40\CMB-Arrays-Lists-02h40\obj\Debug\net8.0\CMB-Arrays-Lists-02h40.pdb
+C:\Users\archi\Documents\C#-Dotnet\codeMonkey\CMB=Arrays,Lists-02h40\CMB-Arrays-Lists-02h40\CMB-Arrays-Lists-02h40\obj\Debug\net8.0\CMB-Arrays-Lists-02h40.genruntimeconfig.cache
+C:\Users\archi\Documents\C#-Dotnet\codeMonkey\CMB=Arrays,Lists-02h40\CMB-Arrays-Lists-02h40\CMB-Arrays-Lists-02h40\obj\Debug\net8.0\ref\CMB-Arrays-Lists-02h40.dll
