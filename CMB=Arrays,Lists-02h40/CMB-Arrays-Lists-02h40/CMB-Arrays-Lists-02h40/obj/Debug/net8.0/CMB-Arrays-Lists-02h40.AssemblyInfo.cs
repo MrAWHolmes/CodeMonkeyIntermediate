@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CMB-Arrays-Lists-02h40")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18aba424912fe7d174b13b9e2644f184b491b18e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dae058b8f798858340d57f1aef99f612326c65e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CMB-Arrays-Lists-02h40")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CMB-Arrays-Lists-02h40")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,7 +17,7 @@ namespace CMB_Arrays_Lists_02h40
     internal class Program
     {
         //Arrays once defined 'have a fixed size'
-        static int[] Array1;                           // an int array - equivalent to Array1 = {};
+        static int[] Array1 = new int[] {};                           // an int array - equivalent to Array1 = {};
         static int[] Array2 = { 56, 123, 12 };         // initialise to have 3 values
         static int[] Array3 = new int[] { 4, 2, 43 };  // more explicit
         static int[] ArraySize5 = new int[5];          // = {0,0,0,0,0};
@@ -27,6 +27,10 @@ namespace CMB_Arrays_Lists_02h40
         static List<int> List2 = new List<int>();
         static void Main(string[] args)
         {
+            Array1.Append(10);
+            showArray(Array1);
+            Console.WriteLine();
+
             Console.WriteLine("Array 'Array2'");
             showArray(Array2);
             Console.WriteLine();
@@ -55,6 +59,7 @@ namespace CMB_Arrays_Lists_02h40
             showList<int>(List2);
             Console.WriteLine();
 
+            
 
             Console.ReadKey();       }
 
@@ -71,9 +76,9 @@ namespace CMB_Arrays_Lists_02h40
             //Console.WriteLine($"s.Substring(0,Length-1)) = {s.Substring(0,s.Length - 1)}");
 
             //drop trailing ,
-            s = s.Substring(0, s.Length - 1);
+            if (s.Length > 2) s = s.Substring(0, s.Length - 1); // only remove , if it exists
 
-            
+
             s += "}";
             Console.Write(s);
         }
